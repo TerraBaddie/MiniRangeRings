@@ -3,7 +3,7 @@
 Installation is in READ ME NAO! Text document some screenshots of original concept vs actual below:
 
 
-First concept on phone below:
+First concept on phone Here:
 <img width="192" height="183" alt="image" src="https://github.com/user-attachments/assets/33dbc70a-3da4-4f88-b4f4-ada45240d512" />
 
 Actual in game alpha reduced and configurable default is 0.30 alpha 30% you can change it as you see fit
