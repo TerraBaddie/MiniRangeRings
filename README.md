@@ -9,6 +9,8 @@ First concept on phone Here:
 Actual in game alpha reduced and configurable default is 0.30 alpha 30% you can change it as you see fit
 Works for Blizzard's UI and pfUI
 Actual below at 40% alpha while testing:
+
+
 PFUI:
 <img width="187" height="186" alt="image" src="https://github.com/user-attachments/assets/846d6897-5656-4cd1-86a0-500ce117b733" />
 
