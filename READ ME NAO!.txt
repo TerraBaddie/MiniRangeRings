@@ -9,7 +9,7 @@ Example:
 
 "World of Warcraft Vanilla+\Interface\Minimap\MinimapArrow.blp"
 
-Otherwise rename "MiniRangeRings-master" to "MiniRangeRings"
+Otherwise rename "MiniRangeRings-main" to "MiniRangeRings"
 
 and stick it into: "\Interface\AddOns\"
 
@@ -20,5 +20,6 @@ Like so:
 if you dont like the minimap cursor edit just delete:
 
 "\Minimap\" in Interface folder. CHEERS!
+
 
 ~Khan
