@@ -1,0 +1,24 @@
+If you want a smaller version of World of Warcraft minimap Cursor
+(I just cut out the circle below the arrow)
+
+YOU MUST CUT (CTRL + X) "MinimapArrow.blp" file and paste it into:
+
+"WORLDOFWARCRAFT DIRECTORY LOCATION\Interface\Minimap\HERE"
+
+Example:
+
+"World of Warcraft Vanilla+\Interface\Minimap\MinimapArrow.blp"
+
+Otherwise rename "MiniRangeRings-master" to "MiniRangeRings"
+
+and stick it into: "\Interface\AddOns\"
+
+Like so:
+
+"\Interface\AddOns\MiniRangeRings"
+
+if you dont like the minimap cursor edit just delete:
+
+"\Minimap\" in Interface folder. CHEERS!
+
+~Khan
