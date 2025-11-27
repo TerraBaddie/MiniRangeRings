@@ -1,7 +1,0 @@
-## Interface: 11200
-## Title: MiniRangeRings
-## Author: Khan
-## Version: 1.0
-## Notes: Hunter PvP minimap rings — Green 41y, Orange closing in, Red 25y charge.
-MiniRangeRings.xml
-MiniRangeRings.lua
