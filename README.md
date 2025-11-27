@@ -17,3 +17,8 @@ PFUI:
 
 BLIZZARD UI:
 <img width="177" height="180" alt="image" src="https://github.com/user-attachments/assets/f4b04e59-cb60-40f3-8bf7-d5ec7cd3d0bb" />
+
+
+
+where to put MinimapArrow.blp if you are visual and not a reader kekw:
+<img width="805" height="733" alt="image" src="https://github.com/user-attachments/assets/81d553dc-6d07-4981-bd5a-f4cfaf5a7ad6" />
